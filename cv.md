@@ -25,7 +25,9 @@ At the moment, I have some educational experience in the field of HTML layout an
 
 The desktop layout of the landing page of the flower shop: <https://ponomareva-nina.github.io/Botanica/>. Layout and styling are made on pure HTML and CSS. 
 
-Few JavaScript projects (hover-board, card gallery, AIM Training game) available on [my GitHub Profile](https://github.com/Ponomareva-Nina).
+Few JavaScript projects (hover-board, card gallery, AIM Training game etc). Code examples are available in [my GitHub Profile](https://github.com/Ponomareva-Nina).
+
+Completed tasks on the HTML Academy platform. My HTML Academy profile: <https://htmlacademy.ru/profile/id1871797>
 
 ___
 ## Code examples 
