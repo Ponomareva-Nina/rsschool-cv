@@ -3,7 +3,7 @@
 ## About me
 Good organizational and interpersonal skills.\
 High level of self-management and self-motivation.\
-Capable of listening and acting on feedback.\
+Capable of listening and acting on feedback.
 
 ## Contact
 * tel: +7 (911) 953-71-81
