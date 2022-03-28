@@ -3,24 +3,25 @@
 ## About me
 Good organizational and interpersonal skills.\
 High level of self-management and self-motivation.\
-Capable of listening and acting on feedback.
-___
+Capable of listening and acting on feedback.\
+
 ## Contact
 * tel: +7 (911) 953-71-81
 * e-mail: nina.9412@mail.ru
 * telegram: <https://t.me./Nina_pon>
 * discord: Nina (Ponomareva-Nina)#0422
-___
+
 ## Skills
-1. **HTML and CSS**. Semantic, cross-browser, adaptive layout.     
-2. Basic knowledge of **JavaScript**.   
-3. Understanding of working with **DOM**.      
-4. Ability to work with **GIT and GitHub**. Knowledge of **Markdown** markup.
-5. Working with **Figma**.   
-6. Knowledge of **BEM** methodology at the class naming level.
-7. Ability to work with Chrome Dev Tools, VS Code and Terminal.
-___
+* **HTML and CSS**. Semantic, cross-browser, adaptive layout.     
+* Basic knowledge of **JavaScript**.   
+* Understanding of working with **DOM**.      
+* Ability to work with **GIT and GitHub**. Knowledge of **Markdown** markup.
+* Working with **Figma**.   
+* Knowledge of **BEM** methodology at the class naming level.
+* Ability to work with Chrome Dev Tools, VS Code and Terminal.
+
 ## Experience
+
 At the moment, I have some educational experience in the field of HTML layout and front-end development. 
 
 The desktop layout of the landing page of the flower shop: <https://ponomareva-nina.github.io/Botanica/>. Layout and styling are made on pure HTML and CSS. 
@@ -29,7 +30,6 @@ Few JavaScript projects (hover-board, card gallery, AIM Training game etc). Code
 
 Completed tasks on the HTML Academy platform. My HTML Academy profile: <https://htmlacademy.ru/profile/id1871797>
 
-___
 ## Code examples 
 Here are some code examples from Codewars: \
 1\. Task:
@@ -76,7 +76,7 @@ ___
 
 [2010 - 2013] - Sevastopol High Professional College of communication and Information Technologies. Typing operator, Secretary of director. 
 
-___
+
 ## Languages
 * Native Russian
 * English - Intermediate
