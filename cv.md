@@ -16,7 +16,8 @@ Capable of listening and acting on feedback.
 * Basic knowledge of **JavaScript**.   
 * Understanding of working with **DOM**.      
 * Ability to work with **GIT and GitHub**. Knowledge of **Markdown** markup.
-* Working with **Figma**.   
+* Working with **Figma**. 
+* Basic knowledge of **Node.js**.
 * Knowledge of **BEM** methodology at the class naming level.
 * Ability to work with Chrome Dev Tools, VS Code and Terminal.
 
