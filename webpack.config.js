@@ -1,6 +1,7 @@
 const path = require("path");
 const HTMLWebpackPlugin = require("html-webpack-plugin");
 const {CleanWebpackPlugin} = require("clean-webpack-plugin");
+const sass = require('sass');
 
 module.exports = {
     context: path.resolve(__dirname,"src"),
@@ -34,7 +35,11 @@ module.exports = {
             type: "asset/resource"},
 
             {test: /\.(ttf|woff|woff2|eot)$/, 
-            type: "asset/resource"}
+            type: "asset/resource"},
+            
+            {test: /\.s[ac]ss$/i,
+            use: ["style-loader","css-loader","sass-loader"]
+            }
         ]
     }
 }

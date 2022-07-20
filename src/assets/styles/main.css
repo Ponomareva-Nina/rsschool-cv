@@ -1,0 +1,19 @@
+@import "~normalize.css";
+@import "./fonts.scss";
+
+body {
+    font-family: 'Rubik', 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: black;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.visually-hidden {
+    display: none;
+}
